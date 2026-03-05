@@ -1,0 +1,17 @@
+{
+  "pytorch": {
+    "size_mb": 4619.790951728821,
+    "latency_ms": 322.5239626566569,
+    "throughput": 3.1005448146020416
+  },
+  "ctranslate2": {
+    "size_mb": 293.4643030166626,
+    "latency_ms": 116.05887810389201,
+    "throughput": 8.616316272718349
+  },
+  "improvement": {
+    "size_reduction": 93.64767137554477,
+    "latency_reduction": 64.01542473064472,
+    "speedup": 2.778968467780158
+  }
+}
